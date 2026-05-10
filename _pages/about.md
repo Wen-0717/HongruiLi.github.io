@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am **Hongrui Li (&#26446;&#34425;&#34122;)**, a M.Sc. student in the School of Information Science and Technology, Shijiazhuang Tiedao University, starting from 2024. Before that, I received my undergraduate training from the School of Computer and Electronic Information / School of Artificial Intelligence, Nanjing Normal University.
+Hi, I am **Hongrui Li (&#26446;&#34425;&#34122;)**, a master's student in the School of Information Science and Technology, Shijiazhuang Tiedao University, starting from 2024. Before that, I received my undergraduate training from the School of Computer and Electronic Information / School of Artificial Intelligence, Nanjing Normal University.
 
 My current research focuses on **trustworthy multimodal intelligence**, **face attack detection**, and **knowledge-guided reasoning for biometric security**. I am particularly interested in building systems that can reason over visual, textual, and structured knowledge signals, with the goal of improving robustness, interpretability, and generalization in high-stakes security scenarios.
 
@@ -33,7 +33,7 @@ UniShield explores a unified framework for face attack detection by combining mu
 Education
 ======
 
-- **M.Sc. in Information Science and Technology**, Shijiazhuang Tiedao University, 2024-present  
+- **Master's student in Information Science and Technology**, Shijiazhuang Tiedao University, 2024-present  
   Advisor: Professor Jun Feng
 
 - **B.Eng. / B.Sc. undergraduate studies**, School of Computer and Electronic Information / School of Artificial Intelligence, Nanjing Normal University
@@ -47,4 +47,4 @@ News
 Contact
 ======
 
-I am always happy to discuss research ideas, collaboration opportunities, and new problems in multimodal reasoning and biometric security. Please feel free to reach out by email.
+I am always happy to discuss research ideas, collaboration opportunities, and new problems in multimodal reasoning and biometric security. Please feel free to reach out by email at [1202410034@student.stdu.edu.cn](mailto:1202410034@student.stdu.edu.cn).
